@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is in test branch but edited by master
+=======
+this file is in test branch and edited by test branch
+>>>>>>> test
